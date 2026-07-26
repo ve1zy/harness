@@ -1,5 +1,5 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "default_agent": "harness",
-  "instructions": ["AGENTS.md"]
+  "instructions": ["AGENTS.md", ".opencode/skills/caveman/SKILL.md"]
 }

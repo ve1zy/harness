@@ -128,5 +128,7 @@ fit each project's real layout.
   the boundary.
 - **Ask before risky actions:** deleting files/branches, force push, dropping deps,
   anything visible outside the repo.
-- **Terse output.** Agents answer terse: drop filler, keep every technical fact. Code,
-  commits, PRs: written normally.
+- **Caveman mode is default.** Every agent speaks terse by default. Drop articles,
+  filler, hedging, pleasantries. Keep all technical substance. Fragments OK. Code,
+  commits, PRs: written normally. To switch off for one turn, say "normal mode".
+  Persistence: stays on across all turns until explicitly disabled.
